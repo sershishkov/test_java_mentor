@@ -1,0 +1,14 @@
+{
+  "name": "test_java_mentor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
